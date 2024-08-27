@@ -1,6 +1,6 @@
 [package]
 name = "code_navigation_python"
-version = "0.0.2"
+version = "0.0.3"
 edition = "2021"
 description = "A python package written in rust for code navigation features like text search, fuzzy search and go to definition/references"
 license = "Apache"
@@ -109,10 +109,10 @@ bindings = "pyo3-abi3"
 
 [package.metadata.maturin]
 name = "code_navigation_python"
-version = "0.1.1"
+version = "0.0.3"
 description = "A python package written in rust for code navigation features like text search, fuzzy search and go to definition/references"
 author = ""
 license = "MIT"
 readme = "README.md"  # Make sure this file exists in the root of your project
-home-page = "https://github.com/blarApp/code-base-agent/tree/main"
-repository = "https://github.com/blarApp/code-base-agent/tree/main"
+home-page = "https://github.com/aiengineertools/code_navigation_python"
+repository = "https://github.com/aiengineertools/code_navigation_python"
